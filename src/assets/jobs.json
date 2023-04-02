@@ -1,0 +1,191 @@
+[
+    {
+      "company": "Flipkart",
+      "position" : "Jr. Finance Manager",
+      "date" : "10 March",
+      "location" : "Mumbai, India",
+      "tags" : [
+        "Full-time",
+        "Finance"
+      ],
+      "desc": "A junior finance manager assists senior finance managers in various financial tasks, including budgeting, forecasting, financial analysis, and reporting, to help ensure the financial health and success of the organization."
+    },
+    {
+        "company": "Accenture",
+        "position" : "SDE",
+        "date" : "29 March",
+        "location" : "Pune, India",
+        "tags" : [
+          "Full-time",
+          "Software"
+        ],
+        "desc": "A Software Development Engineer (SDE) is responsible for designing, developing, and implementing software solutions for various applications and systems.  "
+      },
+      {
+        "company": "Byjus",
+        "position" : "Jr. Software Engineer",
+        "date" : "6 April",
+        "location" : "Bangalore, India",
+        "tags" : [
+          "Part-time",
+          "Software"
+        ],
+        "desc": "A software engineer designs, develops, and maintains software applications, systems, and products using programming languages and other technical tools."
+      },
+      {
+        "company": "Wokhardt Group of Hospitals",
+        "position" : "Jr. Accountant",
+        "date" : "20 March",
+        "location" : "Mumbai/ Delhi, India",
+        "tags" : [
+          "Full-time",
+          "Finance"
+        ],
+        "desc": "A junior accountant is responsible for assisting senior accountants in maintaining financial records, preparing reports, and performing basic accounting tasks such as accounts payable and accounts receivable."
+      },
+      {
+        "company": "Accenture",
+        "position" : "Illustrators",
+        "date" : "20 March",
+        "location" : "Remote",
+        "tags" : [
+          "Part-time",
+          "Art"
+        ],
+        "desc": "An illustrator creates visual art, designs, and graphics to communicate ideas and messages through various mediums such as books, magazines, websites, and advertisements."
+      },
+      {
+        "company": "Kalaghoda Art Club",
+        "position" : "Designer",
+        "date" : "18 March",
+        "location" : "Mumbai, India",
+        "tags" : [
+          "Full-time",
+          "Art"
+        ],
+        "desc": "A graphic designer creates visual concepts, using computer software or by hand, to communicate ideas that inspire, inform, or captivate consumers through various mediums such as print, digital, or social media."
+      },
+      {
+        "company": "Falcon India",
+        "position" : "Teachers for Tutions",
+        "date" : "24 March",
+        "location" : "Gaziabaad, India",
+        "tags" : [
+          "Full-time",
+          "Teaching"
+        ],
+        "desc": "A science teacher educates students on scientific principles and concepts by developing lesson plans, delivering lectures, conducting laboratory experiments, and evaluating student performance."
+      },
+      {
+        "company": "Daikin ACs",
+        "position" : "Electrical Engineer",
+        "date" : "4 March",
+        "location" : "Delhi, India",
+        "tags" : [
+          "Full-time",
+          "Technical"
+        ],
+        "desc": "An electrical engineer designs, develops, and tests electrical equipment, systems, and components, applying principles and techniques of electrical engineering, to meet industry and customer requirements while ensuring safety and sustainability"
+      },
+      {
+        "company": "Haldirams",
+        "position" : "Food Supervisor",
+        "date" : "5 May",
+        "location" : "Rajsthan",
+        "tags" : [
+          "Full-time",
+          "Food"
+        ],
+        "desc": "A food supervisor oversees and coordinates the activities of kitchen and dining room staff in a food service establishment, ensuring food quality, safety, and efficiency in food preparation, production, and service."
+      },
+      {
+        "company": "Jp Morgan & Chase",
+        "position" : "Jr. SDE",
+        "date" : "28 March",
+        "location" : "Remote",
+        "tags" : [
+          "Part-time",
+          "Software"
+        ],
+        "desc": "A Software Development Engineer (SDE) is responsible for designing, developing, and implementing software solutions for various applications and systems.  "
+      },
+      {
+        "company": "Rudraksh Pvt. Ltd",
+        "position" : "Graphic Designer",
+        "date" : "18 March",
+        "location" : "Faridabad, India",
+        "tags" : [
+          "Full-time",
+          "Art"
+        ],
+        "desc": "A graphic designer creates visual concepts, using computer software or by hand, to communicate ideas that inspire, inform, or captivate consumers through various mediums such as print, digital, or social media."
+      },
+      {
+        "company": "Kidzania",
+        "position" : "Ticket Collector",
+        "date" : "29 June",
+        "location" : "Mumbai, India",
+        "tags" : [
+          "Full-time",
+          "Supervision"
+        ],
+        "desc": "A ticket collector at a kid park is responsible for collecting tickets or admission fees from visitors and ensuring that only authorized persons enter the park."
+
+      },
+      {
+        "company": "Geet Art Classes",
+        "position" : "Tabla Teacher",
+        "date" : "22 March",
+        "location" : "Mumbai, India",
+        "tags" : [
+          "Full-time",
+          "Art"
+        ],
+        "desc": "A tabla teacher is responsible for instructing students in the techniques of playing the tabla, a traditional Indian percussion instrument, and helping them develop their skills in rhythm and musical expression."
+      },
+      {
+        "company": "Grindlays",
+        "position" : "CA",
+        "date" : "25 April",
+        "location" : "Remote",
+        "tags" : [
+          "Full-time",
+          "Finance"
+        ],
+        "desc": "A Chartered Accountant (CA) is responsible for providing financial advice, auditing accounts, and providing trustworthy information about financial records to clients, ensuring compliance with regulations and laws. "
+      },
+      {
+        "company": "Karishma Classes",
+        "position" : "Art Teacher",
+        "date" : "12 April",
+        "location" : "Dadar, India",
+        "tags" : [
+          "Full-time",
+          "Art"
+        ],
+        "desc": "An Art teacher is responsible for teaching various forms of art, including drawing, painting, sculpture, and other visual media, to students of all ages, and helping them develop their creativity and artistic skills."
+      },
+      {
+        "company": "Oracle",
+        "position" : "Java Developer",
+        "date" : "20 June",
+        "location" : "Banglore",
+        "tags" : [
+          "Full-time",
+          "Software"
+        ],
+        "desc": "A Java developer designs and develops applications, software, and websites using the Java programming language."
+      },
+      {
+        "company": "Barkleys",
+        "position" : "Marketing Team",
+        "date" : "19 March",
+        "location" : "Pune, india",
+        "tags" : [
+          "Full-time",
+          "Technical"
+        ],
+        "desc": "A marketing lead is responsible for developing and implementing strategic marketing plans to promote a company's products or services, increase brand awareness, and generate sales leads."
+      }
+  ]
+  

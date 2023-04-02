@@ -1,0 +1,74 @@
+[
+  {
+    "category": "Software",
+    "name": "Competitive Programming in C++",
+    "desc": "This course in competitive programming in C++ covers advanced topics such as algorithms, data structures, and optimization techniques to enhance problem-solving skills and prepare students for programming contests and technical interviews.",
+    "link": "https://www.youtube.com/watch?v=8jLOx1hD3_o",
+    "embed_link":"https://www.youtube.com/embed/8jLOx1hD3_o"
+  },
+  {
+    "category": "Software",
+
+    "name": "Tableau Specialist",
+    "desc": "This course will teach students how to become proficient in Tableau, a powerful data visualization tool, and how to leverage its features to analyze and communicate complex data insights.",
+    "link": "https://www.youtube.com/watch?v=aHaOIvR00So",
+    "embed_link":"https://www.youtube.com/embed/aHaOIvR00So"
+  },
+  {
+    "category": "Marketing",
+
+    "name": "Marketing 101",
+    "desc": "Marketing 101 introduces students to the fundamental principles and practices of marketing, providing an understanding of market research, consumer behavior, branding, and marketing mix strategies.",
+    "link": "https://www.youtube.com/watch?v=nU-IIXBWlS4",
+    "embed_link":"https://www.youtube.com/embed/nU-IIXBWlS4"
+  },
+  {
+    "category": "Art",
+
+    "name": "Graphic Designing",
+    "desc": "This course provides a beginner-friendly introduction to Figma, covering the basics of the design tool and how to use it to create and collaborate on digital designs.",
+    "link": "https://www.youtube.com/watch?v=pz-lwONtVmM",
+    "embed_link":"https://www.youtube.com/embed/pz-lwONtVmM"
+  },
+  {
+    "category": "Art",
+
+    "name": "Figma Basics",
+    "desc": "This course will provide students with the fundamental skills and knowledge necessary to become a proficient graphic designer, covering topics such as design principles, typography, color theory, and industry-standard software.",
+    "link": "https://www.youtube.com/watch?v=kbZejnPXyLM",
+    "embed_link":"https://www.youtube.com/embed/kbZejnPXyLM"
+  },
+  {
+    "category": "Technical",
+
+    "name": "Digial Marketing",
+    "desc": "This course will introduce students to the key principles and strategies of digital marketing, including search engine optimization (SEO), social media marketing, email marketing, and content marketing, to help them develop effective and measurable digital marketing campaigns.",
+    "link": "https://www.youtube.com/watch?v=nU-IIXBWlS4",
+    "embed_link": "https://www.youtube.com/embed/nU-IIXBWlS4"
+  },
+  {
+    "category": "Technical",
+
+    "name": "Analyst",
+    "desc": "This course will teach students how to become proficient in Tableau, a powerful data visualization tool, and how to leverage its features to analyze and communicate complex data insights.",
+    "link": "https://www.youtube.com/watch?v=CaqJ65CIoMw",
+    "embed_link": "https://www.youtube.com/embed/CaqJ65CIoMw"
+  },
+  {
+    "category": "Software",
+
+    "name": "Java Programming",
+    "desc": "This course provides an introduction to Java programming, covering fundamental concepts such as data types, control structures, and object-oriented programming principles, as well as advanced topics such as multithreading and network programming.",
+
+    "link": "https://www.youtube.com/watch?v=UmnCZ7-9yDY",
+    "embed_link": "https://www.youtube.com/embed/UmnCZ7-9yDY"
+  },
+  {
+    "category": "Technical",
+
+    "name": "Electrical Engineering 101",
+    "desc": "This course in electrical engineering provides students with an understanding of the principles of electricity and electronics, covering topics such as circuit analysis, digital electronics, power systems, and communication systems.",
+    "link": "https://www.youtube.com/watch?v=3S4cNfl0YF0",
+    "embed_link": "https://www.youtube.com/embed/3S4cNfl0YF0"
+  }
+]
